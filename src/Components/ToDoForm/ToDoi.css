@@ -1,0 +1,26 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    
+}
+
+
+.l{
+ color: red;
+}
+.h{
+    color: blue;
+    left: 200px;
+
+} 
+.sd{
+    font-size: 50px;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+}
+.fg{
+   font-size: 30px;
+   text-align: center;
+}
